@@ -31,6 +31,8 @@ The system consists of two primary subsystems:
 
 ### 1. Lane Detection Module
 
+![Lane Detection](images/LaneDetection.jpeg)
+
 The USB camera captures real-time video frames. OpenCV image processing techniques such as grayscale conversion, Gaussian filtering, edge detection, region-of-interest masking, and Hough Line Transform are used to identify lane boundaries. The system determines whether the vehicle has deviated significantly from the detected lane center and generates a lane departure alert when necessary.
 
 ### 2. Obstacle Detection Module
