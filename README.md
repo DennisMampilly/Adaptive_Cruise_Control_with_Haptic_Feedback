@@ -37,7 +37,7 @@ The USB camera captures real-time video frames. OpenCV image processing techniqu
 
 ### 2. Obstacle Detection Module
 
-<img src="images/Obstacle2.jpeg" width="250">
+<img src="images/Obstacle2.jpeg" width="150">
 
 The HC-SR04 ultrasonic sensor continuously measures the distance between the vehicle and obstacles ahead. When an object is detected within the predefined safety threshold, the system generates an obstacle warning.
 
