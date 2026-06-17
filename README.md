@@ -31,19 +31,20 @@ The system consists of two primary subsystems:
 
 ### 1. Lane Detection Module
 
-![Lane Detection](images/LaneDetection.jpeg)
+<img src="images/Lane2.png" width="250">
 
 The USB camera captures real-time video frames. OpenCV image processing techniques such as grayscale conversion, Gaussian filtering, edge detection, region-of-interest masking, and Hough Line Transform are used to identify lane boundaries. The system determines whether the vehicle has deviated significantly from the detected lane center and generates a lane departure alert when necessary.
 
 ### 2. Obstacle Detection Module
 
-![Obstacle Detection](images/ObstacleDetection.jpeg)
+<img src="images/Obstacle2.png" width="250">
 
 The HC-SR04 ultrasonic sensor continuously measures the distance between the vehicle and obstacles ahead. When an object is detected within the predefined safety threshold, the system generates an obstacle warning.
 
 ### Alert Mechanism
 
-![Haptic Alert](images/HapticAlert.jpeg)![LCD Display Alert](images/LCDAlert.jpeg)
+<img src="images/HapticAlert.png" width="250">
+<img src="images/LCD2.png" width="250">
 
 When either a lane departure event or an obstacle is detected:
 
