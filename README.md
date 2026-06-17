@@ -56,21 +56,21 @@ When either a lane departure event or an obstacle is detected:
 ## Hardware Components
 
 ### Raspberry Pi 4
-![Raspberry Pi](images/Pi.png)
+<img src="images/Pi.png" width="250">
 ### USB Webcam
-![USB Webcam](images/Cam.png)
+<img src="images/Cam.png" width="250">
 ### HC-SR04 Ultrasonic Sensor
-![HC-SR04](images/UltrasonicSensor.png)
+<img src="images/UltrasonicSensor.png" width="250">
 ### Haptic Motor Module
-![Haptic Motor](images/HapticMotor.png)
+<img src="images/HapticMotor.png" width="250">
 ### I2C LCD Display (16x2)
-![LCD Display](images/LCDI2C.png)
+<img src="images/LCDI2C.png" width="250">
 ### L298N Motor Driver
-![Motor Driver](images/MotorDriver.png)
+<img src="images/MotorDriver.png" width="250">
 ### DC Motors
-![DC Motors](images/DCMotors.png)
+<img src="images/DCMotors.png" width="250">
 ### Power Supply
-![Power Supply](images/PowerSupply.png)
+<img src="images/PowerSupply.png" width="250">
 
 ---
 
