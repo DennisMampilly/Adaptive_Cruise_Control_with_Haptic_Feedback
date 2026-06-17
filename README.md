@@ -50,6 +50,7 @@ When either a lane departure event or an obstacle is detected:
 ## Hardware Components
 
 - Raspberry Pi 4
+![Raspberry Pi](images/Pi.png)
 - USB Webcam
 - HC-SR04 Ultrasonic Sensor
 - Haptic Motor Module
