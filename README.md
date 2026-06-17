@@ -115,6 +115,9 @@ ADAS-Mini-Project/
 
 ## Working Principle
 
+<img src="images/Schematic.jpeg" width="450">
+
+
 1. The USB camera continuously captures road images.
 2. OpenCV processes each frame and detects lane boundaries.
 3. The ultrasonic sensor measures the distance to obstacles ahead.
